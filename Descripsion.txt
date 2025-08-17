@@ -1,0 +1,42 @@
+https://themewagon.com/themes/nomad-force-free-bootstrap-5-html5-landing-page-template/
+
+
+Free Bootstrap 5 HTML5 Landing Page Template
+Along with its unique design, the responsive theme got many trendy features like hero header with background video, sticky navigation bar, portfolio gallery section, news section, on hover effect, contact form, and many more. In addition, all of the other sections are finely animated and slide smoothly. Additional features, such as Google Maps and social media icons, are also beneficial to the user. This theme’s code is well-structured, allowing you to publish your website in no time. So using Nomad Force, you can take your project to the next level without any difficulties.
+
+Key Features
+Bootstrap v5.0.1
+HTML5 & CSS3
+Hero header with video background
+100% responsive
+Cross browser compatibility
+Sticky navigation bar
+Multipage design
+On hover effects
+Contact form
+Portfolio section
+Blog section
+Google maps
+Footer navigation
+Font awesome
+Google fonts
+ 
+
+In the box
+Two HTML Pages
+All demo images
+All HTML & CSS files
+Javascript source files
+Library and plugin files
+ 
+
+Libraries & Plugins
+Bootstrap 5
+Font Awesome
+Google fonts
+Thank you for downloading Nomad Force.
+
+Here are three recommended free Bootstrap templates for you.
+Little Squirrel – Free Responsive Bootstrap 5 HTML5 Education Website Template
+Edu Meeting – Free Bootstrap 5 HTML5 Educational Website Template
+Simple – Free Bootstrap 4 HTML5 Landing Page Website Template
